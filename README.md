@@ -10,7 +10,7 @@ Optional:
 
 - Pymoo (more on how to install here: https://pymoo.org/ )
 
-If you do not wish to use pymoo, you are free to do so. In this case, you are encouraged to copy and paste in your code the snippet 'OSC communication'. This is to ensure a smooth communication between SonOpt and your algorithm, including the correct formatting of the values sent to MAX/MSP. 
+If you do not wish to use pymoo - although we highy recommend it - you are free to do so. In this case, you are encouraged to copy and paste in your code the snippet 'OSC communication'. This is to ensure a smooth communication between SonOpt and your algorithm, including the correct formatting of the values sent to MAX/MSP.
 You might notice the 'sleep' function at the end of each generation. The purpose of this is to intentionally slow down the algorithm in order to create perceivable sonic results. We recommend using a minimum of 0.3 sec between generations so that there is no sound lag, however this varies with the population number.
 
 A few instruction on how to use SonOpt:
