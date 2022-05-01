@@ -1,5 +1,5 @@
 # SonOpt
-Hi! This is SonOpt, a Max/MSP application for sonifying bi-objective population-based optimization algorithms.
+Hi! This is SonOpt, a Max/MSP application for sonifying bi-objective population-based optimization algorithms. You can find the relevant paper here: https://arxiv.org/abs/2202.12187 
 
 Requirements:
 
